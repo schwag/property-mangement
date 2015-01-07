@@ -158,10 +158,10 @@
                     <div class="col-sm-5 col-sm-offset-1 text-center">
                         <div class="hovergalleryTwo ">
                         <h2>STAY CONNECTED</h2>
-                        <a href="https://twitter.com/myriadcore" target="_blank"><img src="img/twitter_green.png" alt="" width="50px" height="50px"></a>
-                        <a href="https://www.facebook.com/MyriadCore" target="_blank"><img src="img/facebook_green.png" alt="" width="50px" height="50px"></a>
-                        <a href="http://www.linkedin.com/company/2935125?trk=prof-exp-company-name" target="_blank"><img src="img/linkedin_green.png" alt="" width="50px" height="50px"></a>
-                        <a href="https://plus.google.com/u/0/+Myriadcore/posts" target="_blank"><img src="img/google_green.png" alt="" width="50px" height="50px"></a>
+                        <a href="https://twitter.com/myriadcore" target="_blank"><img src="img/twitter-bird-48.png" alt="" width="48px" height="48px"></a>
+                        <a href="https://www.facebook.com/MyriadCore" target="_blank"><img src="img/facebook-48.png" alt="" width="48px" height="48px"></a>
+                        <a href="http://www.linkedin.com/company/2935125?trk=prof-exp-company-name" target="_blank"><img src="img/linkedin-48.png" alt="" width="48px" height="48px"></a>
+                        <a href="https://plus.google.com/u/0/+Myriadcore/posts" target="_blank"><img src="img/google-48.png" alt="" width="48px" height="48px"></a>
                         </div>
                     </div>
                     <div class="col-sm-5 text-center">
