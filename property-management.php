@@ -5,16 +5,16 @@
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
 
-        <?php include "php/nav.php";?> <!-- end navigation -->
+        <?php include "php/navtwo.php";?> <!-- end navigation -->
 
         
-        <section id="ecommercehome" class="jumbotron ecommerceJumbotron">
+        <section id="ecommercehome" class="jumbotron propertymanagementJumbotron">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-10 col-sm-offset-1 bannerBox">
-                        <h1>We'll Build the Store of Your Dreams</h1>
+                        <h1>Property Management Title</h1>
                         <div class="bannerPar">
-                        <h4>We're robust in our ecommerce experience and dedicated to your success.</h4>
+                        <h4>This is the property management tagline!</h4>
                         </div>
                         
                             <div class="col-xs-12 col-sm-6 col-md-4 ggl-sscrl">
@@ -37,26 +37,26 @@
             </div>
         </section><!--  end jumbotron section -->
 
-            <div class="col-xs-12 pointerGreen">              
+            <div class="col-xs-12 pointerWhite">              
             </div>
 
         <section id="professionalservices">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-10 col-sm-offset-1">
-                        <h2 class="text-center">PLATFORM EXPERTISE</h2>
+                        <h2 class="text-center">WHAT WE CAN DO</h2>
                             <div class="row text-center">
                                 <div class="col-sm-4 smallHeading">
-                                    <img src="img/magento.png" alt="">
-                                    <p>An ecommerce platform built on open source technology which provides online merchants with a flexible shopping cart system, as well as control over the look, content and functionality of their online store.</p>
+                                    <img src="img/placeme.png" alt="">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tristique enim laoreet nisl fermentum, et tristique nisl commodo. Nulla tortor enim, porttitor vel magna convallis, sagittis luctus felis. Maecenas aliquet metus ut massa facilisis, et dictum neque suscipit.</p>
                                 </div>
                                 <div class="col-sm-4 smallHeading">
-                                    <img src="img/woocommerce.png" alt="">
-                                    <p>A powerful, extendable eCommerce plugin that helps you sell anything. Beautifully. Transform your WordPress website into a thoroughbred eCommerce store. Delivering enterprise-level quality and features, backed by a name you can trust.</p>
+                                    <img src="img/placeme.png" alt="">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tristique enim laoreet nisl fermentum, et tristique nisl commodo. Nulla tortor enim, porttitor vel magna convallis, sagittis luctus felis. Maecenas aliquet metus ut massa facilisis, et dictum neque suscipit.</p>
                                 </div>
                                 <div class="col-sm-4 smallHeading">
-                                    <img src="img/custom.png" alt="">
-                                    <p>We have assembled teams over the years that can handle the most esoteric development tasks. From IBM servers, to custom CodeIgniter Admin consoles, we can build the system you need and make it work the way it should.</p>
+                                    <img src="img/placeme.png" alt="">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tristique enim laoreet nisl fermentum, et tristique nisl commodo. Nulla tortor enim, porttitor vel magna convallis, sagittis luctus felis. Maecenas aliquet metus ut massa facilisis, et dictum neque suscipit.</p>
                                 </div>
                             </div>
                     </div>
@@ -67,45 +67,28 @@
             <div class="col-xs-12 pointerWhite"> 
             </div>
 
-        <section id="features" class="gray-back">
+        <section id="features" class="blue-back">
             <div class="container">
                 <div class="row">
-                    <div class="col-sm-10 col-sm-offset-1">
-                        <h2 class="text-center">FEATURES</h2>
-                        <p class="text-center">Whether you want a custom store or a powerful template, you can expect world class quality and service.</p>
-                            <div class="row text-center">
-                                <div class="col-sm-4 smallHeading">
-                                    <img src="img/ecommerce.png" alt="">
-                                    <h4>Your Custom Store</h4>
-                                    <p>What you need, how you need it.</p>
-                                </div>
-                                <div class="col-sm-4 smallHeading">
-                                    <img src="img/exposure.png" alt="">
-                                    <h4>Powerful Exposure</h4>
-                                    <p>Fast and easy to use because speed sells.</p>
-                                </div>
-                                <div class="col-sm-4 smallHeading">
-                                    <img src="img/highly_functional.png" alt="">
-                                    <h4>Highly Functional</h4>
-                                    <p>Interface with CRM's and accounting software.</p>
-                                </div>
-                            </div>
+                    <div class="col-sm-10 col-sm-offset-1 blueTier">
+                        <h2 class="whiteheaderTwo" style="color: #ffffff;">WHY CHOOSE US</h2>
+                        <img src="img/bigplace.png" class="img-responsive">
+                        <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tristique enim laoreet nisl fermentum, et tristique nisl commodo. Nulla tortor enim, porttitor vel magna convallis, sagittis luctus felis. Maecenas aliquet metus ut massa facilisis, et dictum neque suscipit. Aliquam erat volutpat. Morbi sollicitudin pretium mi. Curabitur congue justo nec augue consectetur lacinia. Nam lacinia eros a condimentum sagittis.</p>
                     </div>
                 </div>
             </div>
         </section><!-- end about section -->
 
-            <div class="col-xs-12 pointerLightgray"> 
+            <div class="col-xs-12 pointerWhite"> 
             </div>
 
         <section id="faq">
             <div class="container">
                     <div class="col-sm-10 col-sm-offset-1">
-                        <h2 class="text-center">FAQ</h2>
+                        <h2 class="text-center">WHAT WE'VE DONE</h2>
                         <p class="text-center">Each client is unique, therefore, we have developed a process to identify our
                         clients requirements, put together a strategy for those requirements, implement a custom strategy, measure the strategy, 
-                        and optimize the stratgy. This is a process we repeat each month with complete transparency.</p>
-                        <?php include "php/faq-accordion.php";?>    
+                        and optimize the stratgy. This is a process we repeat each month with complete transparency.</p> 
                     </div>
             </div>
         </section><!-- end campaign types section -->
@@ -113,20 +96,20 @@
             <div class="col-xs-12 pointerWhite"> 
             </div>
 
-        <section id="showcase" class="gray-back">
+        <section id="showcase" class="blue-back">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-10 col-sm-offset-1">
-                        <h2 class="text-center">SHOWCASE</h2>
+                        <h2 class="text-center">OUR CREDENTIALS</h2>
                             <div class="row text-center caseLogos">
                                 <div class="col-sm-6 smallHeading"> 
                                     <div class="hovergalleryTwo">
-                                        <a href="#case-study-classroom" role="button" class="caseButton" ><img src="img/classroomlogo.png" alt="Classroom Store"></a>                                 
+                                        <a href="#case-study-classroom" role="button" class="caseButton" ><img src="img/placeme.png" alt=""></a>                                 
                                     </div>                                 
                                 </div>
                                 <div class="col-sm-6 smallHeading">
                                     <div class="hovergalleryTwo">
-                                        <a href="#case-study-kelleybros" role="button" class="caseButton" ><img src="img/kelleybroslogo.png" alt="Kelley Bros"></a>                                 
+                                        <a href="#case-study-kelleybros" role="button" class="caseButton" ><img src="img/placeme.png" alt=""></a>                                 
                                     </div>   
                                 </div>
                             </div>
@@ -135,7 +118,7 @@
             </div>
         </section><!--end case studies section -->
 
-            <div class="col-xs-12 pointerLightgray">
+            <div class="col-xs-12 pointerWhite">
             </div>
 
         <section id="ecommercecontact">
@@ -165,9 +148,10 @@
             </div>
         </section><!-- end contact section -->
 
-            <div class="col-xs-12 pointerLightgray">
+            <div class="col-xs-12 pointerWhite">
             </div>
 
+        <section class="blue-back">
         <footer>
             <div class="container footer">
                 <div class="row">
@@ -198,6 +182,7 @@
                 </div>
             </div>
         </footer><!-- end footer section -->
+        </section>
         
         <a class="mc-go-to-top" href="#"></a>
         

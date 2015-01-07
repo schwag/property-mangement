@@ -92,7 +92,7 @@ nav ul li a {pointer-events: auto;}
 
 .ecommerceJumbotron {
   background-image: url("../img/banner_ecommerce-mc.jpg"); background-position: center center; background-repeat: no-repeat; background-size: cover; height: 600px;}
-  
+
 .googleJumbotron {background-image: url("../img/banner_moneyshot.jpg"); background-position: center center; background-repeat: no-repeat; background-size: cover; height: 600px;}
 
 p {color:#333 !important;}
@@ -292,7 +292,29 @@ text-decoration: underline;
   padding-bottom: 27px;
 }
 
+/*---------------------------------Beginning of Property Management Styles-----------------------------------*/
+.propertymanagementJumbotron {
+  background-image: url("../img/banner_property_management.jpg"); 
+  background-position: center center; 
+  background-repeat: no-repeat; 
+  background-size: cover; height: 600px;
+}
+.blue-back{
+  background-color: #27588d;
+}
+.blueTier h2{
+  font-family: 'Roboto',sans-serif;
+  font-size: 29px;
+  text-align: center;
+  color: #ffffff;
+}
+.blueTier img{
+  margin: 0 auto;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+}
 
+/*---------------------------------End of Property Management Styles-----------------------------------*/
 /*--------------------------------------------------------------------*/
 
 /* - @Media Mobile Styles - */
