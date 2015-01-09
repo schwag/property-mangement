@@ -68,8 +68,8 @@
             </div>
 
         <section id="features" class="blue-back">
-            <div class="container ">
-                <div class="row">
+            <div class="container">
+                <div class="row whiteParagraph">
                     <div class="col-sm-10 col-sm-offset-1 blueTier">
                         <h5 class="text-center">WHY CHOOSE US</h5>
                         <img src="img/bigplace.png" class="img-responsive">
@@ -157,7 +157,7 @@
                 <div class="row">
                     <div class="col-sm-5 col-sm-offset-1 text-center">
                         <div class="hovergalleryTwo ">
-                        <h2>STAY CONNECTED</h2>
+                        <h5 class="text-center">STAY CONNECTED</h5>
                         <a href="https://twitter.com/myriadcore" target="_blank"><img src="img/twitter-bird-48.png" alt="" width="48px" height="48px"></a>
                         <a href="https://www.facebook.com/MyriadCore" target="_blank"><img src="img/facebook-48.png" alt="" width="48px" height="48px"></a>
                         <a href="http://www.linkedin.com/company/2935125?trk=prof-exp-company-name" target="_blank"><img src="img/linkedin-48.png" alt="" width="48px" height="48px"></a>
@@ -165,7 +165,7 @@
                         </div>
                     </div>
                     <div class="col-sm-5 text-center">
-                        <h2>ADWORDS NEWSLETTER</h2>
+                        <h5 class="text-center">ADWORDS NEWSLETTER</h5>
                         <p>Receive the latest Adwords best practices each month</p>
                         <!-- Begin MailChimp Signup Form -->
                         <div id="mc_embed_signup">
