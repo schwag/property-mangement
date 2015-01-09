@@ -44,7 +44,21 @@ nav .phoneSection a:hover {background-color:rgba(54,54,54,.75); border:1px solid
 
 .mc-grn-txt {color:#5BA73B;}
 
-h2 {font-weight:600; color:#4F6382  !important;}
+h2 {
+  font-weight:600; 
+  color:#4F6382  !important;
+  font-family: 'Roboto',sans-serif;
+  font-size: 29px;
+}
+
+h5 {
+  font-weight:600; 
+  color:#ffffff  !important;
+  font-family: 'Roboto',sans-serif;
+  font-size: 29px;
+  margin-top: 22px;
+  margin-bottom: 11px;
+}
 
 {color:#4F6382;}
 
@@ -95,7 +109,7 @@ nav ul li a {pointer-events: auto;}
 
 .googleJumbotron {background-image: url("../img/banner_moneyshot.jpg"); background-position: center center; background-repeat: no-repeat; background-size: cover; height: 600px;}
 
-p {color:#333 !important;}
+/*p {color:#333 !important;}*/
 
 .acord-minus-me:after { color: #007fc3; content: "\e082" !important; float: left; font-family: 'Glyphicons Halflings'; font-size: 25px; padding-right: 15px;}
 
@@ -301,6 +315,7 @@ text-decoration: underline;
 }
 .blue-back{
   background-color: #27588d;
+  color: #ffffff;
 }
 .blueTier h2{
   font-family: 'Roboto',sans-serif;
@@ -309,9 +324,12 @@ text-decoration: underline;
   color: #ffffff;
 }
 .blueTier img{
-  margin: 0 auto;
+  margin: 25px auto;
   border: 1px solid #ffffff;
   border-radius: 5px;
+}
+.blue-back p{
+  color: #ffffff;
 }
 
 /*---------------------------------End of Property Management Styles-----------------------------------*/

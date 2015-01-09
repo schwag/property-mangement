@@ -16,6 +16,7 @@
             #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
         </style>
         
+
         <link rel="stylesheet" href="css/normalize.css">       
         <link rel="stylesheet" href="css/styles.css">
         <link rel="stylesheet" href="css/smoothhover.css">
@@ -27,6 +28,7 @@
         <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
         
         <link rel="stylesheet" href="css/styles-v2.css">
+
         
 <style type="text/css">
 /* MailChimp Form Embed Code - Slim - 08/17/2011 */
