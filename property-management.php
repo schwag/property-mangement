@@ -71,7 +71,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-10 col-sm-offset-1 blueTier">
-                        <h2 class="whiteheaderTwo" style="color: #ffffff;">WHY CHOOSE US</h2>
+                        <h2>WHY CHOOSE US</h2>
                         <img src="img/bigplace.png" class="img-responsive">
                         <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tristique enim laoreet nisl fermentum, et tristique nisl commodo. Nulla tortor enim, porttitor vel magna convallis, sagittis luctus felis. Maecenas aliquet metus ut massa facilisis, et dictum neque suscipit. Aliquam erat volutpat. Morbi sollicitudin pretium mi. Curabitur congue justo nec augue consectetur lacinia. Nam lacinia eros a condimentum sagittis.</p>
                     </div>
